@@ -1,2 +1,35 @@
+GIT 
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+https://docs.github.com/en/free-pro-team@latest/github/using-git/pushing-commits-to-a-remote-repository
+
+https://intellipaat.com/community/3102/git-show-remote-url-how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-from
+
+
+
 How do you use git commit editor?
 Type git commit, ENTER, type i, then type message, CTR + C , :wq, enter
+After git commit command, you entered to the editor, so first hit i then start typing. 
+After committing your message hit Ctrl + c then :wq
+
+
+what is remote repository?
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere. 
+
+how can i know my remote server ?
+To see which remote servers you have configured, you can run the git remote command.
+
+how do you commit to oriign?
+git push <originName> <branch name>
+
+git push origin main
+
+How do i know the url i am pushing to?
+git config --get remote.origin.url
+
+
+how do i get more details about a particular remote ( in my bash)?
+git remote show [remote-name] command
+git remote show origin
+
+
