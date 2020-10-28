@@ -1,0 +1,2 @@
+How do you use git commit editor?
+Type git commit, ENTER, type i, then type message, CTR + C , :wq, enter
