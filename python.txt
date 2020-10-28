@@ -50,10 +50,15 @@ what is method?
 A special kind of function that is defined in a class definition. 
 
 what is an object?
-Object: A unique instance of a data structure 
-that's defined by its class. 
+Object is A unique instance of a data structure 
+it is  defined by its class. 
+
+what does an object comprise of ?
 An object comprises both data members 
 (class variables and instance variables) and methods
+
+what are data members?
+class variables and instance variables
 
 what is operator overloading?
 Operator overloading is The assignment of more than one function to a particular operator. 
